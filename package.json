@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
-    "knex":"knex"
+    "knex": "knex"
   },
   "author": "",
   "license": "ISC",
@@ -21,6 +21,7 @@
     "knex": "^0.11.10",
     "moment": "^2.15.0",
     "morgan": "^1.7.0",
+    "pg": "^6.1.0",
     "querystring": "^0.2.0"
   }
 }
